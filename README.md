@@ -7,5 +7,4 @@ Describe your business idea and your budget — Feasibly tells you:
 - What it will cost (realistic breakdown)
 - What legal steps and documents you’ll need
 - Suggestions if your budget is too low
-
-## ✅ Example Input
+  
